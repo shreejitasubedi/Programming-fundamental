@@ -1,4 +1,9 @@
-
+/*
+student name: shreejita subedi
+roll:
+program: WAP to use rational numbers
+lab sheet : 6
+*/
 
 	#include<stdio.h>
 	#include<conio.h>

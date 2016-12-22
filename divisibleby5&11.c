@@ -2,7 +2,7 @@
 Name : shreejita subedi
 Section:B
 lab sheet :12
-program :WAP to swap two number using temporary variable
+program :WAP to check eiter the no is divisible by 5 and 11 
 subject
 */
 #include<stdio.h>

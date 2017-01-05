@@ -1,5 +1,5 @@
 /*
-STUDENT : SHREEJIYA SUBEDI
+STUDENT : SHREEJITA SUBEDI
 ROLL:
 Subject: programming fundamental
 Lab sheet :4
